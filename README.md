@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xavesenduk
 - 👀 I’m interested in Web/Mobile Development, and Machine Learning
 - 🌱 I’m currently learning C, C++, Python, Java, TypeScript, and Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on mail@xavesenduk.dev
 
 <!---
 xavesenduk/xavesenduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
